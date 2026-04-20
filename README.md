@@ -67,12 +67,11 @@
 ## 🏗 Архитектура
 
 Frontend (React / Svelte)
-   │
-   │ Tauri IPC
-   ▼
+
+Tauri IPC
+
 Rust Backend
-   │
-   ▼
+
 Database Layer (SQLite / PostgreSQL / MySQL)
 
 ---
@@ -96,10 +95,7 @@ npm run tauri build
 
 ## 📁 Структура проекта
 
-dbreeze/
-├── src-tauri/
-├── src/
-└── package.json
+----------
 
 ---
 
