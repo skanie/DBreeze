@@ -38,7 +38,7 @@
 ### 🔌 Подключения к БД
 - ✅ SQLite (MVP)
 - ✅ PostgreSQL (MVP)
-- 🔜 MySQL
+- ✅ MySQL
 
 ### 📤 Экспорт данных
 - CSV
@@ -112,7 +112,7 @@ npm run tauri build
 - [x] SQLite  
 - [x] SQL Editor  
 - [x] Table Viewer  
-- [ ] MySQL  
+- [x] MySQL  
 - [ ] ER-диаграммы  
 - [ ] Plugin API  
 
