@@ -50,13 +50,13 @@
 ## 🧱 Технологический стек
 
 ### Backend
-- Rust (Edition 2021)
-- Tauri v2
+- Rust
+- Tauri
 - sqlx
 - tokio
 
 ### Frontend
-- React 18 / Svelte 5
+- React / Svelte
 - Monaco Editor
 - Tailwind CSS
 - Zustand / Jotai
