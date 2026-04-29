@@ -113,7 +113,6 @@ npm run tauri build
 - [x] SQL Editor  
 - [x] Table Viewer  
 - [x] MySQL  
-- [ ] ER-диаграммы  
 - [ ] Plugin API  
 
 ---
